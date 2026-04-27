@@ -173,7 +173,7 @@ Register using the signup form
 Password must have 8+ chars, uppercase, lowercase, number, special char
 📊 Current Deployment Status
 Service	Status	URL
-Frontend (GitHub Pages)	✅ Live	https://24a31a05kp.github.io/CitizenSheild/
+Frontend (GitHub Pages)	✅ Live	 https://kkr-kkreddy-24a31a05kd.github.io/citizen-shield/
 Backend API (Render)	✅ Live	https://citizensheild.onrender.com
 Database (PostgreSQL)	✅ Live	Hosted on Render
 🚦 Development Roadmap
