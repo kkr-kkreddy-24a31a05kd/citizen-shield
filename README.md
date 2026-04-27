@@ -5,7 +5,7 @@ Version Python Flask PostgreSQL Render GitHub Pages
 CitizenSheild is a comprehensive women safety platform that provides instant emergency assistance, location tracking, and safety resources. The platform enables users to trigger SOS alerts, share live location with trusted contacts, access emergency helplines, and report crimes anonymously.
 
 🎯 Live Demo
-Frontend: https://24a31a05kp.github.io/CitizenSheild/
+Frontend: https://24a31a05kd.github.io/CitizenSheild/
 Backend API: https://citizensheild.onrender.com
 Health Check: https://citizensheild.onrender.com/api/health
 ✨ Key Features
